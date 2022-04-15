@@ -1,0 +1,10 @@
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\bin\Debug\loginpanel.exe.config
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\bin\Debug\loginpanel.exe
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\bin\Debug\loginpanel.pdb
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\obj\Debug\loginpanel.csproj.AssemblyReference.cache
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\obj\Debug\loginpanel.Form1.resources
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\obj\Debug\loginpanel.Properties.Resources.resources
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\obj\Debug\loginpanel.csproj.GenerateResource.cache
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\obj\Debug\loginpanel.csproj.CoreCompileInputs.cache
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\obj\Debug\loginpanel.exe
+C:\Users\SECLİFE\Source\Repos\loginpanel\loginpanel\obj\Debug\loginpanel.pdb
